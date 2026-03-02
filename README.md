@@ -107,12 +107,17 @@ Láthatod az összes jelentést.
 - Látod, ki készítette,
 - Látod az eset részleteit,
 - Ellenőrizheted, hogy helyesen lett-e feldolgozva.
+- Elfogadhatod a jelentéseit a felhasználónak:
+  Ekkor a felhasználó kap egy emailt az adott jelentéseinek a statisztikáiról.
+- Törölni tudod a jelentéseit a felhasználónak:
+  Ebben az esetben nem kap emailt, de ne felejtsd ezeket a műveleteket nem tudod visszavonni.
 
 ### 3.4 Állomány Beállítások
 
 Van egy olyan opció, hogy **Állomány Beállítások**, ahol alapvető dolgokat tudsz módosítani:
-- Hogy engedélyezve vannak-e a jelentések a szervezetedben (tudnak e a felhasználók jelentést leadni az oldalon keresztül),
-- Egyéb alapbeállítások
+- Engedélyezve vannak-e a jelentések a szervezetedben (tudnak e a felhasználók jelentést leadni az oldalon keresztül),
+- Melyik rangtól felfele menően tudjanak a felhasználók jelentéseket jóváhagyni/törölni.
+- Egyéb alapbeállítások lesznek a jövőben. (Pl.: frakció szín, stb. - bár ezek csak a jövő tervjei.)
 
 ---
 
@@ -121,10 +126,10 @@ Van egy olyan opció, hogy **Állomány Beállítások**, ahol alapvető dolgoka
 Fontos megérteni, hogy a rangok meghatározzák a jogosultságokat.
 
 ### Szervezetek:
-- **RENDŐRSÉG** - Fő rendőrségi szervezet
-- **TEK** - Különleges felderítő kommandó  
+- **RENDŐRSÉG** - RiseCity Rendőrkapitányság
+- **TEK** - Terrorelhárítási Központ
 - **NAV** - Nemzeti Adó- és Vámhivatal
-- **NNI** - Nemzetgazdasági Nyomozóiroda
+- **NNI** - Nemzeti Nyomozó Iroda
 - **HONVÉDSÉG** - Honvédelmi szervezet
 
 Minden szervezetnek vannak rangjai. Ha felhasználót meghívsz, a rang dönti el, hogy mit tud csinálni.
@@ -165,8 +170,8 @@ Ez a biztonságos azonosítás. Ne add meg senkinek az emailed tokenjét!
 
 ## 6. ÉRDEMES TUDNI
 
-- A rendszer a **UTC időzónát** használja. Az időpontok ebben érkeznek
-- A **kép feltöltésekhez** imgur linkeket kell használni
+- A rendszer a **UTC időzónát** használja. Az időpontok ebben érkeznek (*Ezért lehetnek néha - néha kicsi késések stb. például egy jelentésnél lehet nem hajnali 1 kor adta le hanem máskor.*)
+- A **kép feltöltésekhez** imgur linkeket kell használni (*Mivel az oldalnak nincs saját tároló egysége, mivel lehet sok adat lenne így inkább képfeltöltő oldalakat használunk ezek lebonyolításához*)
 - Az összes módosítás **naplózva van** - tudjuk, ki mit csinált
 
 ---
@@ -174,7 +179,7 @@ Ez a biztonságos azonosítás. Ne add meg senkinek az emailed tokenjét!
 ## 8. SEGÍTSÉG KÉRÉSE
 
 Ha valami nem működik vagy nem érted, akkor:
-1. Olvasd újra ezt a szart
+1. Olvasd újra ezt a szart (lehet megérted, ha nem akkor bocsika)
 2. Kérdezz meg egy másik kollégát, aki már használja az oldalt
 3. Keresd fel az állomány vezetőjét, hátha tud segíteni (nemhiszem)
 
