@@ -1,4 +1,4 @@
-# RCPD Rendőrségi Rendszer - Felhasználói Kézikönyv
+# RCPD Rendvédelmi Rendszer - Felhasználói Kézikönyv
 
 Szia! Ebben a dokumentumban megtalálod, hogy hogyan kell használni az RCPD (Rise City Police Department) rendszert. Akár szimpla rendőr vagy, akár parancsok vagy, minden az itt írtak alapján működik.
 
@@ -44,6 +44,8 @@ Itt tudsz döntéseket hozni a büntetések és börtönbüntetések nagyságár
 3. Kiválaszthatod a relevándans paragrafsusokat / BTK elemeket
 4. A rendszer kiszámítja a minimum és maximum büntetést (Jelenlegi BTK állás szerint, mindig a legfrisebb BTK van fent!)
 5. Te döntesz, mennyit kell fizetni vagy börtönt tölteni
+
+> Amennyiben nem tudod a szabályokat ott találhatod a "Szabályzat" gombot, amiben röviden le van írva ami a BTK-ban hosszan megvan fogalmazva, először érdemesebb a nyers dokumentációt elolvasni a BTK-ból.
 
 ### 2.3 Jelentések
 Ez az, ahol feldolgozod az emberek felett az eljárásokat. (Vagyis ha osztottál ki büntetést itt tudod megadni, amennyiben az állományod vezetője ezt engedélyezte)
