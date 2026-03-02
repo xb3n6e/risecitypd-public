@@ -141,6 +141,10 @@ Minden szervezetnek vannak rangjai. Ha felhasználót meghívsz, a rang dönti e
 
 ## 5. GYAKORI KÉRDÉSEK
 
+### "Kik az adminisztrátorok?"
+Nem azok az adminisztrátorok akik a InGame Adminok. Általában FőAdmin felett rendelkeznek adminisztrátori jogokkal az oldalon személyek, mivel sok információt látnak.
+Jelenlegi adminisztrátorok: **Vitya**, **Kiwi**, **Bnc** (*ekkor: 2026.03.02*)
+
 ### "Mit csináljak, ha lefagyott az oldal?"
 Töltsd be újra az oldalt és próbálkozz újra. Ha még mindig nem működik, vedd fel a kapcsolatot az adminisztrátorokkal.
 
@@ -152,7 +156,7 @@ Gyakorlatilag akármennyit, de a rangodnak meghívási jogokkal kell rendelkezni
 Fontos, csak azokat az embereket hívd be akik benne vannak az állományban ténylegesen. Ha valaki kilép/kirúgásra kerül akkor töröld ki innen is!
 
 ### "Törölhetek egy felhasználót?"
-A saját állományodból törölheted. Ha újra akar belépni másik állományba újra "regisztrálnia" kell.
+A saját állományodból törölheted. Ha újra akar belépni másik állományba újra "regisztrálnia" kell, vagy pedig egy adminisztrátor áttudja írni manuálisan, csak akkor ne töröld az állományodból.
 
 ### "Mit jelent az 'token' az emailben?"
 Ez a biztonságos azonosítás. Ne add meg senkinek az emailed tokenjét!
@@ -172,7 +176,7 @@ Ez a biztonságos azonosítás. Ne add meg senkinek az emailed tokenjét!
 Ha valami nem működik vagy nem érted, akkor:
 1. Olvasd újra ezt a szart
 2. Kérdezz meg egy másik kollégát, aki már használja az oldalt
-3. Keress meg egy adminisztrátort.
+3. Keresd fel az állomány vezetőjét, hátha tud segíteni (nemhiszem)
 
 ---
 
