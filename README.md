@@ -2,7 +2,7 @@
 
 Szia! Ebben a dokumentumban megtalálod, hogy hogyan kell használni az RCPD (Rise City Police Department) rendszert. Akár szimpla rendőr vagy, akár parancsok vagy, minden az itt írtak alapján működik.
 
---
+---
 
 ## 0. Regisztráció
 
